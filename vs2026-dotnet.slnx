@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Vs2026Bench/Vs2026Bench.csproj" />
+    <Project Path="src/Vs2026Demo/Vs2026Demo.csproj" />
+  </Folder>
+</Solution>
