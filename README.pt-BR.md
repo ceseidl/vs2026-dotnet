@@ -11,7 +11,7 @@ dotnet run --project src/Vs2026Demo --no-build
 
 Precisa só do SDK do .NET 10. Detalhes em [Como rodar](#como-rodar).
 
-Código do artigo "Visual Studio 2026 para quem escreve .NET". Mostra, em poucos arquivos, o que muda no dia a dia com o Visual Studio 2026, o .NET 10 e o C# 14: o formato de solução `.slnx`, o SDK fixado, as configurações compartilhadas de build, os recursos do C# 14 e um benchmark BenchmarkDotNet do tipo com que o Copilot Profiler Agent trabalha.
+Código do artigo "Visual Studio 2026 para .NET: o que muda no dia a dia". Mostra, em poucos arquivos, o que muda no dia a dia com o Visual Studio 2026, o .NET 10 e o C# 14: o formato de solução `.slnx`, o SDK fixado, as configurações compartilhadas de build, os recursos do C# 14 e um benchmark BenchmarkDotNet do tipo com que o Copilot Profiler Agent trabalha.
 
 ## O que é
 
